@@ -3,6 +3,7 @@
 ## About ##
 
 This project demonstrates how to build a scheduling service using TypeBot for user interaction and a REST API for backend operations. It covers the entire process from database creation to API development and integration with TypeBot, ensuring a seamless user experience for scheduling tasks.
+The TypeBotSchedullingAPI folder contains the Rest Framework API. Additionally, the TypeBotWorkflow folder contains the JSON file to export to Typebot.
 For more details about, check my Medium post: link.
 
 ## Setup ##
